@@ -31,5 +31,14 @@ int main() {
     float result2 = (float)num4 / num5;
 
     cout << "Result2 is : " << result2 << endl;
-    return 0;
+   
+
+
+    float a = 10.0;
+    float b = 4.0;
+
+    int results = a + (int)b;
+    cout << "Result of a + b is : " << results << endl;
+
+ return 0;
 }
